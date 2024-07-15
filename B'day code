@@ -1,0 +1,35 @@
+#include <stdio.h>
+
+// Function to print the cake
+void printCake() {
+    printf("         ,   ,   ,   ,   ,\n");
+    printf("   |H|A|P|P|Y| |B|I|R|T|H|D|A|Y|\n");
+    printf("       ======================\n");
+    printf("      |||||||||||||||||||||||\n");
+    printf("     =========================\n");
+    printf("    |||||||||||||||||||||||||||\n");
+    printf("   ============================\n");
+    printf("   |                           |\n");
+    printf("   |                           |\n");
+    printf("   |       Chitra Mam!         |\n");
+    printf("   |                           |\n");
+    printf("   =============================\n");
+}
+
+int main() {
+    printf("\n");
+    printf("*****************************************\n");
+    printf("*                                       *\n");
+    printf("*          HAPPY BIRTHDAY               *\n");
+    printf("*                                       *\n");
+    printf("*****************************************\n");
+    printf("\n");
+    printCake();
+    printf("\n");
+    printf("Wishing you a day filled with love, joy, and all your favorite things.\n");
+    printf("Thank you for being an amazing professor and guiding us through programming!Love you mam!\n");
+    printf("\n");
+    printf("Best wishes,\n");
+    printf("Ancy\n");
+    return 0;
+}
